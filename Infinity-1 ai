@@ -1,0 +1,4 @@
+pkg install git
+git clone https://github.com/your-username/infinity-1-ai.git
+cd infinity-1-ai
+.patch
